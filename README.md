@@ -1,5 +1,3 @@
-# CAHOOT_CAD_Project
-Data Science Project from Spring 2024
 # CAHOOTS_CAD_Project
 DSCI 410 Project evaluating the concordance between Dispatch and CAHOOTS
 # CAHOOTS and CAD Data Analysis Project
